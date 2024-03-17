@@ -7,6 +7,7 @@ v1.0.2:
   - Now close it and open their modding folder
   - and drag and drop the rusherhack.jar file in it
   - Run it and enjoj
+
 v1.2.3
   - Install forge 1.12.2 and runit
   - Turn off windows defender
@@ -14,6 +15,7 @@ v1.2.3
   - and drag and drop the rusherhack_v1.2.3.jar file in it
   - Run miecraft
   - and enjoj
+
 v1.3.1
   - Install forge 1.12.2 and runit
   - Turn off windows defender
